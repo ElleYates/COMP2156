@@ -1,6 +1,3 @@
 #### COMP2156 -- Developer Operations
-<<<<<<< Updated upstream
 #### Elle
-=======
-#### Elle
->>>>>>> Stashed changes
+#### GitHub action CS/CD integration
